@@ -1,0 +1,5 @@
+# Main paths
+# repo_root: /home/koyo/concept-graphs
+# data_root: /home/koyo/my_local_data
+repo_root: /home/koyo/conceptgraphs_data_collection
+data_root: /home/koyo/conceptgraphs_data_collection/output_data
