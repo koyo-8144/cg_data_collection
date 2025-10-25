@@ -1,7 +1,9 @@
 defaults:
   - base
   - base_detections
-  - realsense
+  # - d435_t265
+  - stretch_ros2
+  # - franka_ros
   # - record3d 
   # - replica
   # - sam

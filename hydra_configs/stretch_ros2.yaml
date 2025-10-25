@@ -1,0 +1,7 @@
+defaults:
+  - base_paths
+  
+dataset_root: ${data_root}/stretch_ros2
+scene_id: stretch_ros2_dataset_1
+dataset_config: ${repo_root}/conceptgraph/dataset/dataconfigs/stretch_ros2/manipulator_config.yaml
+render_camera_path: ${repo_root}/conceptgraph/dataset/dataconfigs/stretch_ros2/stretch_ros2_camera.json

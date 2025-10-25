@@ -1,0 +1,7 @@
+defaults:
+  - base_paths
+
+dataset_root: ${data_root}/d435_t265
+scene_id: d435_t265_dataset_1
+dataset_config: ${repo_root}/dataset_configs/d435_t265/manipulator_config.yaml
+render_camera_path: ${repo_root}/dataset_configs/d435_t265/d435_t265_cams.json

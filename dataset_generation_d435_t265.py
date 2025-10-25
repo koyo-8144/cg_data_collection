@@ -21,7 +21,7 @@ from general_utils import (
 
 @hydra.main(
     version_base=None, 
-    config_path="../hydra_configs/", 
+    config_path="hydra_configs/", 
     config_name="streamlined_detections")
 
 def main(cfg : DictConfig):
